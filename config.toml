@@ -1,0 +1,4 @@
+baseURL = "https://magician-music55.vercel.app"
+languageCode = "en-us"
+title = "Easy Sheet Music For Someone"
+theme = "hugo-theme-minos"
